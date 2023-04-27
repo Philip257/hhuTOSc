@@ -1,0 +1,7 @@
+{
+    "makefile.configurations": [
+        
+    ],
+    "makefile.makefilePath": "${workspaceRoot}/src",
+    "makefile.makePath": "make"
+}

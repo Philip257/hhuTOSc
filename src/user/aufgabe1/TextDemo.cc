@@ -12,7 +12,6 @@
 
 
 void text_demo() {
-   
-   /* Hier muss Code eingefuegt werden */
-
+   kout.print("Test\n", 5, 0xa);
+   kout << "Tesfdgdgdrgfdrgft"<< endl;
 }
